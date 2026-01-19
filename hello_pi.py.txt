@@ -1,0 +1,2 @@
+print("Hello, I am an embedded system.")
+print("This Raspberry Pi is part of a spatial design.")
